@@ -3,7 +3,6 @@ import '../styles/main.css';
 
 console.log('Hello Coders! :)');
 
-// import './styles/main.css';
 // import './styles/responsive.css';
 
 const menu = document.querySelector('#menu');
